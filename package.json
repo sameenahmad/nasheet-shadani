@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sameenahmad/nasheet-shadani/issues"
   },
-  "homepage": "https://sameenahmad.github.io/nasheet-shadani/dist",
+  "homepage": "https://sameenahmad.github.io/nasheet-shadani/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "website-scraper": "^4.2.2"
